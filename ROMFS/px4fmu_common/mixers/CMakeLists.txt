@@ -36,6 +36,7 @@ px4_add_romfs_files(
 	AAVVTWFF.main.mix
 	AAVVTWFF_vtail.main.mix
 	AERT.main.mix
+	rascal_hitl.main.mix
 	AETRFG.main.mix
 	babyshark.main.mix
 	blade130.main.mix
